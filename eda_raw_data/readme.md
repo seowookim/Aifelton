@@ -1,6 +1,7 @@
 # Cognitive Distortion Dataset EDA
 
 인지 왜곡 관련 선행 연구 탐색을 통해 활용 가능한 데이터셋 3가지를 확보했습니다
+
 EDA는 ydata_profiling 라이브러리를 사용하여 리포트를 html파일로 생성하였습니다 :
 
 1. **Therapist Q&A Dataset (Kaggle)**  
