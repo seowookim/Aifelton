@@ -24,7 +24,7 @@
 - 데이터의 품질을 판단하는 코드를 작성하는 도중에, 연구 방향이 변경되어 진행이 중단되었습니다.
 - 연구 방향 변경 : LLM이 인지왜곡을 이해하거나, 구분할 수 있는 것인지를 먼저 확인이 필요하다는 조언에 의해..
 
-![prompt 테스트 과정](https://docs.google.com/spreadsheets/d/1xRfRMFzhOVtpicSr5M4fsrVTSszelnLdGTtPp5cUoVw/edit?gid=1076492679#gid=1076492679)
+[prompt 테스트 과정](https://docs.google.com/spreadsheets/d/1xRfRMFzhOVtpicSr5M4fsrVTSszelnLdGTtPp5cUoVw/edit?gid=1076492679#gid=1076492679)
 
 ### 코드 설명
 
