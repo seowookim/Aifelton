@@ -1,13 +1,16 @@
-# Aifelton_나몰래
+# Aifelton_Cognitive Distortion Project
 
-### 폴더 
+### Folders
 
-- 데이터셋 streamlit (cognitive_distortion_human)
-- 데이터셋 EDA (eda_raw_data)
+- dataset streamlit (cognitive_distortion_human)
+- dataset EDA (eda_raw_data)
 - Sequential Sentence Classification task (SSC)
     - MentalBERT, SDLA, sentenceBERT    
-- 데이터 생성 (gen_sen_gpt, gen_sen_slm)
+- data generation (gen_sen_gpt, gen_sen_slm)
 
-### 작업자
+### Cotributors
 
-- 김서우, 이얼, 이승열, 이종무
+- Seowookim : SSC_MentalBERT, data generation
+- Earl Lee : EDA, data generation
+- Seungyeol Lee: SDLA, sentenceBERT
+  
